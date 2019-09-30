@@ -7,6 +7,10 @@ Polecamy tę formę informowania o działalności stowarzyszeń.
 
 Więcej informacji: http://github.io
 
+## Elkarte Wiki
+Zapraszamy do zapoznania się z informacjami na stronach wiki naszego stowarzyszenia: <br />
+https://github.com/elkarte-poland/elkarte-poland.github.io/wiki
+
 
 ## Dane rejestrowe
 ```
