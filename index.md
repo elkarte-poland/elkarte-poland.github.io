@@ -1,7 +1,7 @@
 Stowarzyszenie Elkarte
 
 
-##Dane rejestrowe
+## Dane rejestrowe
 Elkarte
 NIP: 774-32-34-495
 REGON: 367187161
