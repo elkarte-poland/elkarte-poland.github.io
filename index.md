@@ -1,5 +1,12 @@
 # Stowarzyszenie Elkarte
 
+## Hosting dla organizacji pozarządowych
+Ta strona jest utrzymywana na serwerach Github Pages, całkowicie za darmo.
+
+Polecamy tę formę informowania o działalności stowarzyszeń.
+
+Więcej informacji: http://github.io
+
 
 ## Dane rejestrowe
 ```
