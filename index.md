@@ -1,4 +1,4 @@
-Stowarzyszenie Elkarte
+# Stowarzyszenie Elkarte
 
 
 ## Dane rejestrowe
