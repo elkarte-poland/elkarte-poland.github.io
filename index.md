@@ -1,15 +1,7 @@
 # Stowarzyszenie Elkarte
 
-## Hosting dla organizacji pozarządowych
-Ta strona jest utrzymywana na serwerach Github Pages, całkowicie za darmo.
-
-Polecamy tę formę informowania o działalności stowarzyszeń.
-
-Więcej informacji: http://github.io
-
-## Elkarte Wiki
-Zapraszamy do zapoznania się z informacjami na stronach wiki naszego stowarzyszenia: <br />
-https://github.com/elkarte-poland/elkarte-poland.github.io/wiki
+## Nasze projekty
+* [Elkarte Wiki](https://github.com/elkarte-poland/elkarte-poland.github.io/wiki)
 
 
 ## Dane rejestrowe
@@ -20,3 +12,8 @@ REGON: 367187161
 ul. Miodowa 10/2
 09-400 Płock
 ```
+
+***
+Ta strona jest utrzymywana na serwerach Github Pages, całkowicie za darmo.
+Polecamy tę formę informowania o działalności stowarzyszeń.
+Więcej informacji: http://github.io
