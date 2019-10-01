@@ -15,7 +15,7 @@ https://github.com/elkarte-poland/elkarte-poland.github.io/wiki
 ## Dane rejestrowe
 ```
 Elkarte
-NIP: 774-32-34-495
+NIP: 7743234495
 REGON: 367187161
 ul. Miodowa 10/2
 09-400 Płock
