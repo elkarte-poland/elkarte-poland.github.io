@@ -1,3 +1,5 @@
+# O Stowarzyszeniu
+
 ## Nasze projekty
 * [Elkarte Wiki](https://github.com/elkarte-poland/elkarte-poland.github.io/wiki)
 * [Kod źródłowy naszych projektów](https://github.com/elkarte-poland)
